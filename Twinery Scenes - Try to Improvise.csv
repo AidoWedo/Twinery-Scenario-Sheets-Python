@@ -1,0 +1,4 @@
+Scene,Text/Conversations,Consequence
+Discovery Session,"Bob: ""Let's proceed with what I have in mind. The first step involves setting up the initial framework.""","Alice: ""This doesn't seem very thorough, Bob."""
+Implementation Phase,"Alice: ""Bob, we encountered an issue. You mentioned this step, but we don't have the documentation.""","Bob: ""I apologize. I'll get that sorted immediately."""
+Outcome,"Alice loses some trust in Bob's capabilities. The project faces hurdles, and Alice considers switching consultants.",

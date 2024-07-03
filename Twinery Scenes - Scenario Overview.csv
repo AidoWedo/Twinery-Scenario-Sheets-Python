@@ -1,0 +1,5 @@
+Character,Scene,Text/Conversations,Background/Setting
+Client (Alice),Initial Meeting,"""Good morning. I'm excited to see how the Zscaler ZIA platform can enhance our data security. How shall we proceed?""","Alice's office, large windows, modern decor, bright and professional"
+Consultant (Bob),Initial Meeting,"""Good morning, Alice. Yes, let's dive into the implementation plan.""","Bob is at a desk with a laptop, several folders, and a nervous demeanor"
+Client (Alice),Discovery Session,"""Can you walk me through the steps and timelines for the implementation?""",Meeting room with a projector and whiteboard
+Consultant (Bob),Discovery Session,"""Uh, I...I apologize, but I seem to have left some critical documents at the office.""","Bob looking through his bag, clearly unprepared"
